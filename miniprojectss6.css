@@ -1,0 +1,42 @@
+h1{
+    background-color:  #fde68a;
+    font-family: #92400e;
+    text-align: center;
+    color: #92400e;
+    font-family: cursive;
+}
+h3{
+    background-color:#fed7aa ;
+    text-align: center;
+    font-family: #92400e;
+    font-family: cursive;
+}
+h2{
+   font-family: #92400e;
+    font-family: cursive;  
+}
+body{
+    color: #92400e;
+    font-family: cursive;
+    background-color:#fff7ed;
+}
+
+h1{
+    background-color: #fde68a;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+div{
+    background-color:#E0F7FA;
+}
+
+
+footer{
+    text-align: center;
+    background-color:  #78350f;
+    color: white;
+}
